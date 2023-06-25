@@ -1,2 +1,1 @@
-# Nuevo-repositorio
-Este es un repositorio de prueba en Henry.
+Este proyecto es una prueba de como crear un repositorio nuevo y clonarlo desde GitHub a mi escritorio local.
